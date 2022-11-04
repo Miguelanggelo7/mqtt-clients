@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "hello": "node src/hello_client"
+    "a": "node src/a_client",
+    "b": "node src/b_client",
+    "c": "node src/c_client"
   },
   "repository": {
     "type": "git",
